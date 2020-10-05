@@ -1,4 +1,4 @@
-## Dashboard Natura Filtro
+## API Natura Filtro
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
