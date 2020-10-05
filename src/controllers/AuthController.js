@@ -34,7 +34,7 @@ module.exports = {
     }
 
     if(!await bcrypt.compare(password, user.password)){
-      return res.status(400).json({error: 'Senha incorreta'})
+      return res.status(400).json({password: 'Senha incorreta'})
     }
 
     user.password = undefined;
